@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Advanced reboot options -->
+    <string name="advanced_reboot_title">Advanced reboot</string>
+    <string name="advanced_reboot_summary">Include options in the power menu for rebooting into recovery and downloadmode</string>
+    <string name="advanced_reboot_dialog_title">Advanced reboot menu</string>
+    <string name="advanced_reboot_disabled">Disable</string>
+    <string name="advanced_reboot_hide_on_keyguard">Hide on lock screen</string>
+    <string name="advanced_reboot_show_always">Show always</string>
+</resources>
